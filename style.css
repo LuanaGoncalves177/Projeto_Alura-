@@ -159,8 +159,12 @@ body {
     .rodape__lista {
         display: block;
     }
-    .descricao__titulo, .dispositivos__titulo {
+    .descricao__titulo {
         font-size: 30px;
+    }
+    .dispositivos__titulo{
+        font-size: 20px;
+        margin: 0 1em;
     }
     .container__botao, .botao-secundário {
         text-align: center;
